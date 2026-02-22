@@ -1,6 +1,6 @@
 # Acerca de Mí 🙋‍♂️
 
-**🔗 Ver el proyecto en vivo:** [Coloca aquí tu enlace de GitHub Pages cuando lo tengas]
+**🔗 Ver el proyecto en vivo:** https://cencab.github.io/acerca_de_mi/
 
 ## Descripción del Proyecto
 
